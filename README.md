@@ -1,6 +1,6 @@
 ### Olá!Eu sou Rosa Pereira 👋
 - 💓 programação com amor
-- 😄 Pronouns:Ela/dela
+- 😄 Pronomes:Ela/dela
 <div align="center">
   <a href="https://github.com/CodRosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodRosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
